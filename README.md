@@ -30,9 +30,5 @@
 
 
 
-
-  Movie:
-  https://drive.google.com/file/d/15XktneVktuBTM8se59K1pu-8EPK3lLL2/view?usp=sharing
-
   Link to repo:
-  https://github.com/MaryiaVinogradova/E-Commerce-Back-End.git
+  https://github.com/MaryiaVinogradova/Progressive-Web-Applications-PWA-
